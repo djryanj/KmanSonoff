@@ -1,4 +1,6 @@
-# KmanSonoff-Touch - Alternative firmware for Sonoff Switches with Added Support for Capacitive Touch
+# BIG FAT NOTE: THIS REPO IS NOT YET WORKING ANY DIFFERENT FROM THE ORIGINAL. ALL I HAVE DONE AT THIS DATE IS FORK IT AND UPDATE README.MD.
+
+KmanSonoff-Touch - Alternative firmware for Sonoff Switches with Added Support for Capacitive Touch
 
 #### NOTE: This is a fork of the amazing [KmanOz/KmanSonoff](https://github.com/KmanOz/KmanSonoff) firmware for Sonoff devices. This fork adds support for a capacitive touch sensor on GPIO14.
 
